@@ -1,6 +1,6 @@
 applications:
 - name: node-hello-world
-  host: floresam-node-hello-world
+  host: jeffet-node-hello-world
   domain: mybluemix.net
   memory: 128M
   buildpack: sdk-for-nodejs
