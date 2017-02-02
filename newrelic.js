@@ -10,11 +10,11 @@ exports.config = {
   /**
    * Array of application names.
    */
-  app_name: ['floresam-node-hello-world'],
+  app_name: ['jefften-node-hello-world'],
   /**
    * Your New Relic license key.
    */
-  license_key: '27d6013dee6b7e14e914d431ed56de80ee0eb117',
+  license_key: 'a6e42d79faa1a31f012ce71d1f2f580dae6c63ec',
   logging: {
     /**
      * Level at which to log. 'trace' is most useful to New Relic when diagnosing
