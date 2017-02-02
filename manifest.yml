@@ -4,3 +4,5 @@ applications:
   domain: mybluemix.net
   memory: 128M
   buildpack: sdk-for-nodejs
+  services:
+      - New Relic-u3
