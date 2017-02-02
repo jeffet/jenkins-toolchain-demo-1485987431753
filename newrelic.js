@@ -10,7 +10,7 @@ exports.config = {
   /**
    * Array of application names.
    */
-  app_name: ['jefften-node-hello-world'],
+  app_name: ['tennenjl-jtnode-hello-world'],
   /**
    * Your New Relic license key.
    */
