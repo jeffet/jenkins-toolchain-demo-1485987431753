@@ -1,6 +1,6 @@
 applications:
-- name: node-hello-world
-  host: jeffet-node-hello-world
+- name: jefften-node-hello-world
+  host: jefften-node-hello-world
   domain: mybluemix.net
   memory: 128M
   buildpack: sdk-for-nodejs
